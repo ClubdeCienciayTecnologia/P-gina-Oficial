@@ -138,9 +138,9 @@ export default function Home() {
                 <div className="p-3 rounded-full bg-yellow-500 text-blue-900">
                   <Rocket className="h-6 w-6" />
                 </div>
-                <h3 className="text-xl font-bold text-blue-800">Innovación</h3>
+                <h3 className="text-xl font-bold text-blue-800">Oportunidades</h3>
                 <p className="text-center text-gray-500">
-                  Creamos soluciones innovadoras a problemas reales utilizando tecnología de vanguardia.
+                  Brindamos oportunidades a nuestro miembros para impulsar su perfil y habilidades 
                 </p>
               </div>
               <div className="flex flex-col items-center space-y-2 border border-blue-200 p-6 rounded-lg bg-blue-50">
